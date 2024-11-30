@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Issue Wang's personal website # the website title (if blank, full name will be used instead)
+title: # the website title (if blank, full name will be used instead)
 first_name: Issue (Yishu)
 middle_name: 
 last_name: Wang
@@ -11,6 +11,8 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Issue(Yishu) is a MS student at Johns Hopkins University. He was deeply fascinated about mechanism design and strategy optimization for extesive form games. 
   >Previously, he graduated from the University of Hong Kong with BEng in Computer Engineering
 footer_text: >
+  Issue(Yishu) is a MS student at Johns Hopkins University. He was deeply fascinated about mechanism design and strategy optimization for extesive form games. 
+  Previously, he graduated from the University of Hong Kong with BEng in Computer Engineering.
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
