@@ -2,17 +2,15 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: # the website title (if blank, full name will be used instead)
+title: Issue (Yishu) Wang # the website title (if blank, full name will be used instead)
 first_name: Issue (Yishu)
 middle_name: 
 last_name: Wang
 email: ywan1000@jh.edu
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Issue(Yishu) is a MS student at Johns Hopkins University. He was deeply fascinated about mechanism design and strategy optimization for extesive form games. 
-  >Previously, he graduated from the University of Hong Kong with BEng in Computer Engineering
+description: >  # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
-  Issue(Yishu) is a MS student at Johns Hopkins University. He was deeply fascinated about mechanism design and strategy optimization for extesive form games. 
-  Previously, he graduated from the University of Hong Kong with BEng in Computer Engineering.
+  # Issue(Yishu) is a MS student at Johns Hopkins University. He was deeply fascinated about mechanism design and strategy optimization for extesive form games. 
+  # Previously, he graduated from the University of Hong Kong with BEng in Computer Engineering.
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
@@ -81,7 +79,7 @@ dblp_url: # your DBLP profile url
 discord_id: # your discord id (18-digit unique numerical identifier)
 facebook_id: # your facebook id
 flickr_id: # your flickr id
-github_username: # your GitHub user name
+github_username: Alchemist-X # your GitHub user name
 gitlab_username: # your GitLab user name
 ieee_id: # your ieeexplore.ieee.org/author/id
 inspirehep_id: 1010907 # Inspire HEP author ID
@@ -317,8 +315,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Wang]
+  first_name: [Issue(Yishu), Y.]
 
   style: apa
   locale: en
